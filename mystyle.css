@@ -1,0 +1,10 @@
+table,tr,td{
+    border: black 2px solid;
+    border-collapse: collapse;
+}
+table{
+    direction: rtl;
+}
+tr:hover{
+    background-color: darkgray;
+}
